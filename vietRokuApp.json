@@ -1,0 +1,54 @@
+// Roku App to watch free vietnamese streams
+[
+    {
+    "id": "calvarylivestream",
+    "title": "VBS Live",
+    "shortDescription": "Sundays at 8:15am and 10:15am, Wednesdays at 7pm",
+    "longDescription": "Sun. @ 8:15am(PST) and 10:15am(PST) Wed. @ 7pm(PST)",
+    "thumbnail": "http://yourimageurl.jpg",
+    "genres": [
+        "faith",
+        "educational"
+    ],
+    "tags": [
+        "livestream"
+    ],
+    "releaseDate": "1985-05-05",
+    "content": {
+        "dateAdded": "1985-05-05T08:15:00+08:00",
+        "captions": [
+
+        ],
+        "duration": 4500,
+        "videos": [
+            {
+                "url": "http://yourlinktom3u8/playlist.m3u8",
+                "quality": "HD",
+                "videoType": "hls"
+            }
+        ]
+    }
+}
+,
+{
+
+}
+]
+
+// VBS channel
+// http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
+
+// SET TV OC
+// http://set.flashmediacast.com:1935/SET/livestream/chunklist_w1009610241.m3u8?_fwobw=1777071&_fwtbw=1777071
+
+// Saigon TV
+// http://saigonrtmp.tulix.tv/vchannel2/vchannel2/chunklist_w197749656.m3u8?_fwobw=1249670&_fwtbw=1249670
+
+// IBC
+//http://liveplay3.malimarcdn.com/ibcnews/ibcnews.sdp/chunklist_w905427418.m3u8?_fwobw=891887&_fwtbw=891887
+
+// VietFace TV
+// http://saigontvtv.saigon.ns01.us:1935/vf572caliisai/myStream/chunklist_w1142755087.m3u8?_fwobw=1142458&_fwtbw=1142458
+
+// Little Saigon TV
+// http://secure-playlist.livestream.com/streams/21388423_7992704_lsingt6rbkbf2j5wf1m_1/media/21388423_7992704_lsingt6rbkbf2j5wf1m_1@198000pb.m3u8?dw=32&token=1549325197_7f929379b7ceb95ce220614d089136e6027f1a18&ts=1549152000
