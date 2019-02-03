@@ -1,42 +1,64 @@
 // Roku App to watch free vietnamese streams
-[
-    {
-    "id": "calvarylivestream",
-    "title": "VBS Live",
-    "shortDescription": "Sundays at 8:15am and 10:15am, Wednesdays at 7pm",
-    "longDescription": "Sun. @ 8:15am(PST) and 10:15am(PST) Wed. @ 7pm(PST)",
-    "thumbnail": "http://yourimageurl.jpg",
-    "genres": [
-        "faith",
-        "educational"
-    ],
-    "tags": [
-        "livestream"
-    ],
-    "releaseDate": "1985-05-05",
-    "content": {
-        "dateAdded": "1985-05-05T08:15:00+08:00",
-        "captions": [
 
-        ],
-        "duration": 4500,
-        "videos": [
-            {
-                "url": "http://yourlinktom3u8/playlist.m3u8",
-                "quality": "HD",
-                "videoType": "hls"
-            }
-        ]
-    }
-}
-,
 {
+    "providerName": "Live Viet TV",
+    "lastUpdated": "February 3rd 2019",
+    "language": "en",
 
+    "movies": [
+        {
+         "id":"101",
+         "title": "VBS",
+         "content":[
+            "http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w262635131_b512000.m3u8?_fwobw=1228800&_fwtbw=512000"
+         ],
+         "genre":[
+             "news"
+         ],
+         "thumbnail": "",
+         "shortDescription": "Vietnamese Broadcasting Station",
+         "longDescription":"Credits and All Rights go to VBS",  
+        },
+
+        {
+        "id":"102",
+        "title":"SETTV",
+        "content":[
+            "http://set.flashmediacast.com:1935/SET/livestream/chunklist_w1009610241.m3u8?_fwobw=1777071&_fwtbw=1777071"
+        ],
+        "genre":[
+            "news",
+            "music",
+            "shopping"
+        ],
+        "thumbnail":"",
+        "shortDescription":"",
+        "longDescription":"Credits and All Rights go to SETTV",
+        },
+
+        {
+            "id":"103",
+            "title":"Saigon TV",
+            "content":[
+                "http://set.flashmediacast.com:1935/SET/livestream/chunklist_w1009610241.m3u8?_fwobw=1777071&_fwtbw=1777071"
+            ],
+            "genre":[
+                "news",
+                "music",
+                "shopping"
+            ],
+            "thumbnail":"",
+            "shortDescription":"",
+            "longDescription":"Credits and All Rights go to SETTV",
+
+        },
+
+    ],
 }
-]
 
 // VBS channel
 // http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
+// http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w262635131_b512000.m3u8?_fwobw=1228800&_fwtbw=512000
 
 // SET TV OC
 // http://set.flashmediacast.com:1935/SET/livestream/chunklist_w1009610241.m3u8?_fwobw=1777071&_fwtbw=1777071
