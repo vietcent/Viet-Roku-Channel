@@ -16,7 +16,8 @@
          "genres":[
              "news"
          ],
-         "thumbnail": "",
+         "thumbnail": "images/VBS-cropped-logo512x512.png",
+         "releaseDate":"2018-01-01",
          "shortDescription": "Vietnamese Broadcasting Station",
          "longDescription":"Credits and All Rights go to VBS"  
         },
@@ -32,8 +33,9 @@
             
             "special"
         ],
-        "thumbnail":"",
-        "shortDescription":"",
+        "thumbnail":"images/settv.jpg",
+        "releaseDate":"2018-01-01",
+        "shortDescription":"SETTV",
         "longDescription":"Credits and All Rights go to SETTV"
         },
 
@@ -48,8 +50,9 @@
                
                 "special"
             ],
-            "thumbnail":"",
-            "shortDescription":"",
+            "thumbnail":"images/6482427_saigon_tv_logo_5.jpg",
+            "releaseDate":"2018-01-01",
+            "shortDescription":"Saigon TV",
             "longDescription":"Credits and All Rights go to Saigon TV"
 
         }
