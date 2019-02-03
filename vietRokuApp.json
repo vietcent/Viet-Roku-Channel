@@ -5,6 +5,13 @@
     "providerName": "Live Viet TV",
     "lastUpdated": "2019-03-02",
     "language": "en-US",
+    "categories":[{
+
+        "name":"Vietnamese News",
+        "query":"Vietnamese AND News shows",
+        "order":"most_recent"
+    }
+    ],
 
     "movies": [
         {
