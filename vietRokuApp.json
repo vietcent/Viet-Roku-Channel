@@ -195,7 +195,7 @@
                 "dateAdded":"2019-01-01",
                 "videos":[
                     {
-                "url":"https://192.168.100.2.galaxyott.com/secure/streamer/vnatv/livevnatv/vnatv_2/chunks.m3u8?e=1549274082&s=9b9105826ca57701bdfbaad8cddbff573e428faa&u=guest&nimblesessionid=512535&e=1549274082&s=9b9105826ca57701bdfbaad8cddbff573e428faa&u=guest",
+                "url":"https://livestream-f.akamaihd.net/i/26696585_8338495_49304031_1@688718/index_1596_av-p.m3u8?sd=4&dw=14400&set-segment-duration=responsive&rebase=on&hdntl=exp=1549406360~acl=%2fi%2f26696585_8338495_49304031_1%40688718%2f*~data=hdntl~hmac=0e13d70496db8b69e596f88532a73478bcf47868eac644ea10d02a29845b7de0",
                 "quality":"FHD",
                 "videoType":"HLS"
                 }],
