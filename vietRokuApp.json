@@ -33,7 +33,10 @@
          "thumbnail":"https://blog.roku.com/developer/files/2016/10/con-tv-poster-artwork.png",
          "releaseDate":"2018-01-01",
          "shortDescription": "Vietnamese Broadcasting Station",
-         "longDescription":"Credits and All Rights go to VBS"  
+         "longDescription":"Credits and All Rights go to VBS", 
+         "tags":[
+             "news"
+         ] 
         },
 
         {
@@ -62,7 +65,11 @@
         "thumbnail":"https://blog.roku.com/developer/files/2016/10/con-tv-poster-artwork.png",
         "releaseDate":"2018-01-01",
         "shortDescription":"SETTV",
-        "longDescription":"Credits and All Rights go to SETTV"
+        "longDescription":"Credits and All Rights go to SETTV", 
+        "tags":[
+            "news",
+            "special"
+        ] 
         },
 
         {
@@ -86,7 +93,11 @@
             "thumbnail":"https://blog.roku.com/developer/files/2016/10/con-tv-poster-artwork.png",
             "releaseDate":"2018-01-01",
             "shortDescription":"Saigon TV",
-            "longDescription":"Credits and All Rights go to Saigon TV"
+            "longDescription":"Credits and All Rights go to Saigon TV", 
+            "tags":[
+                "news",
+                "special"
+            ] 
 
         }
 
