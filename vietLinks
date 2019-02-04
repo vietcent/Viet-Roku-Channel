@@ -1,6 +1,5 @@
 // VBS channel
-// http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
-// http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w262635131_b512000.m3u8?_fwobw=1228800&_fwtbw=512000
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w262635131_b512000.m3u8?_fwobw=1228800&_fwtbw=512000
 
 // SET TV OC
 // http://set.flashmediacast.com:1935/SET/livestream/chunklist_w1009610241.m3u8?_fwobw=1777071&_fwtbw=1777071
@@ -16,3 +15,9 @@
 
 // Little Saigon TV
 // http://secure-playlist.livestream.com/streams/21388423_7992704_lsingt6rbkbf2j5wf1m_1/media/21388423_7992704_lsingt6rbkbf2j5wf1m_1@198000pb.m3u8?dw=32&token=1549325197_7f929379b7ceb95ce220614d089136e6027f1a18&ts=1549152000
+
+
+VNA TV
+https://192.168.100.2.galaxyott.com/secure/streamer/vnatv/livevnatv/vnatv_2/chunks.m3u8?e=1549274082&s=9b9105826ca57701bdfbaad8cddbff573e428faa&u=guest&nimblesessionid=512535&e=1549274082&s=9b9105826ca57701bdfbaad8cddbff573e428faa&u=guest
+
+SetTv2?
