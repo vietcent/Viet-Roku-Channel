@@ -25,7 +25,7 @@
             "quality":"FHD",
             "videoType":"HLS"
             }],
-            "duration":"9999"
+            "duration":9999
          },
          "genres":[
              "news"
@@ -51,7 +51,7 @@
                 }
 
             ],
-            "duration":"9999"
+            "duration":9999
         }
         ,
         "genres":[
@@ -76,7 +76,7 @@
                 "quality":"FHD",
                 "videoType":"HLS"
                 }],
-                "duration":"9999"
+                "duration":9999
             },
             "genres":[
                 "news",
