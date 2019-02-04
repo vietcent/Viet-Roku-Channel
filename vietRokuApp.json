@@ -7,7 +7,7 @@
     "categories":[{
 
         "name":"Vietnamese News",
-        "query":"Vietnamese AND News shows",
+        "query":"Vietnamese OR News",
         "order":"most_recent"
     }
     ],
