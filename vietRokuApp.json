@@ -103,12 +103,12 @@
 
         {
             "id":"104",
-            "title":"Saigon TV",
+            "title":"IBC",
             "content":{
                 "dateAdded":"2019-01-01",
                 "videos":[
                     {
-                "url":"http://saigonrtmp.tulix.tv/vchannel2/vchannel2/chunklist_w197749656.m3u8?_fwobw=1249670&_fwtbw=1249670",
+                "url":"http://liveplay3.malimarcdn.com/ibcnews/ibcnews.sdp/chunklist_w905427418.m3u8?_fwobw=891887&_fwtbw=891887",
                 "quality":"FHD",
                 "videoType":"HLS"
                 }],
@@ -121,8 +121,8 @@
             ],
             "thumbnail":"https://blog.roku.com/developer/files/2016/10/con-tv-poster-artwork.png",
             "releaseDate":"2018-01-01",
-            "shortDescription":"Saigon TV",
-            "longDescription":"Credits and All Rights go to Saigon TV", 
+            "shortDescription":"IBC",
+            "longDescription":"Credits and All Rights go to IBC", 
             "tags":[
                 "news",
                 "special"
@@ -132,12 +132,12 @@
 
         {
             "id":"105",
-            "title":"Saigon TV",
+            "title":"VietFace TV",
             "content":{
                 "dateAdded":"2019-01-01",
                 "videos":[
                     {
-                "url":"http://saigonrtmp.tulix.tv/vchannel2/vchannel2/chunklist_w197749656.m3u8?_fwobw=1249670&_fwtbw=1249670",
+                "url":"http://saigontvtv.saigon.ns01.us:1935/vf572caliisai/myStream/chunklist_w1142755087.m3u8?_fwobw=1142458&_fwtbw=1142458",
                 "quality":"FHD",
                 "videoType":"HLS"
                 }],
@@ -150,8 +150,8 @@
             ],
             "thumbnail":"https://blog.roku.com/developer/files/2016/10/con-tv-poster-artwork.png",
             "releaseDate":"2018-01-01",
-            "shortDescription":"Saigon TV",
-            "longDescription":"Credits and All Rights go to Saigon TV", 
+            "shortDescription":"VietFace TV",
+            "longDescription":"Credits and All Rights go to VietFace TV", 
             "tags":[
                 "news",
                 "special"
@@ -161,12 +161,12 @@
 
         {
             "id":"106",
-            "title":"Saigon TV",
+            "title":"Little Saigon TV",
             "content":{
                 "dateAdded":"2019-01-01",
                 "videos":[
                     {
-                "url":"http://saigonrtmp.tulix.tv/vchannel2/vchannel2/chunklist_w197749656.m3u8?_fwobw=1249670&_fwtbw=1249670",
+                "url":"http://secure-playlist.livestream.com/streams/21388423_7992704_lsingt6rbkbf2j5wf1m_1/media/21388423_7992704_lsingt6rbkbf2j5wf1m_1@198000pb.m3u8?dw=32&token=1549325197_7f929379b7ceb95ce220614d089136e6027f1a18&ts=1549152000",
                 "quality":"FHD",
                 "videoType":"HLS"
                 }],
@@ -179,8 +179,37 @@
             ],
             "thumbnail":"https://blog.roku.com/developer/files/2016/10/con-tv-poster-artwork.png",
             "releaseDate":"2018-01-01",
-            "shortDescription":"Saigon TV",
-            "longDescription":"Credits and All Rights go to Saigon TV", 
+            "shortDescription":"Little Saigon TV",
+            "longDescription":"Credits and All Rights go to Little Saigon TV", 
+            "tags":[
+                "news",
+                "special"
+            ] 
+
+        },
+
+        {
+            "id":"107",
+            "title":"VNA TV",
+            "content":{
+                "dateAdded":"2019-01-01",
+                "videos":[
+                    {
+                "url":"https://192.168.100.2.galaxyott.com/secure/streamer/vnatv/livevnatv/vnatv_2/chunks.m3u8?e=1549274082&s=9b9105826ca57701bdfbaad8cddbff573e428faa&u=guest&nimblesessionid=512535&e=1549274082&s=9b9105826ca57701bdfbaad8cddbff573e428faa&u=guest",
+                "quality":"FHD",
+                "videoType":"HLS"
+                }],
+                "duration":9999
+            },
+            "genres":[
+                "news",
+               
+                "special"
+            ],
+            "thumbnail":"https://blog.roku.com/developer/files/2016/10/con-tv-poster-artwork.png",
+            "releaseDate":"2018-01-01",
+            "shortDescription":"VNA TV",
+            "longDescription":"Credits and All Rights go to VNA TV", 
             "tags":[
                 "news",
                 "special"
