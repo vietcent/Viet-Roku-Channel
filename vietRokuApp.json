@@ -30,7 +30,7 @@
          "genres":[
              "news"
          ],
-         "thumbnail":"https://blog.roku.com/developer/files/2016/10/con-tv-poster-artwork.png",
+         "thumbnail":"https://github.com/vietcent/Viet-Roku-Channel/blob/master/images/VBS.jpg?raw=true",
          "releaseDate":"2018-01-01",
          "shortDescription": "Vietnamese Broadcasting Station",
          "longDescription":"Credits and All Rights go to VBS", 
@@ -71,6 +71,93 @@
             "special"
         ] 
         },
+
+        {
+            "id":"103",
+            "title":"Saigon TV",
+            "content":{
+                "dateAdded":"2019-01-01",
+                "videos":[
+                    {
+                "url":"http://saigonrtmp.tulix.tv/vchannel2/vchannel2/chunklist_w197749656.m3u8?_fwobw=1249670&_fwtbw=1249670",
+                "quality":"FHD",
+                "videoType":"HLS"
+                }],
+                "duration":9999
+            },
+            "genres":[
+                "news",
+               
+                "special"
+            ],
+            "thumbnail":"https://blog.roku.com/developer/files/2016/10/con-tv-poster-artwork.png",
+            "releaseDate":"2018-01-01",
+            "shortDescription":"Saigon TV",
+            "longDescription":"Credits and All Rights go to Saigon TV", 
+            "tags":[
+                "news",
+                "special"
+            ] 
+
+        }
+
+        {
+            "id":"103",
+            "title":"Saigon TV",
+            "content":{
+                "dateAdded":"2019-01-01",
+                "videos":[
+                    {
+                "url":"http://saigonrtmp.tulix.tv/vchannel2/vchannel2/chunklist_w197749656.m3u8?_fwobw=1249670&_fwtbw=1249670",
+                "quality":"FHD",
+                "videoType":"HLS"
+                }],
+                "duration":9999
+            },
+            "genres":[
+                "news",
+               
+                "special"
+            ],
+            "thumbnail":"https://blog.roku.com/developer/files/2016/10/con-tv-poster-artwork.png",
+            "releaseDate":"2018-01-01",
+            "shortDescription":"Saigon TV",
+            "longDescription":"Credits and All Rights go to Saigon TV", 
+            "tags":[
+                "news",
+                "special"
+            ] 
+
+        }
+
+        {
+            "id":"103",
+            "title":"Saigon TV",
+            "content":{
+                "dateAdded":"2019-01-01",
+                "videos":[
+                    {
+                "url":"http://saigonrtmp.tulix.tv/vchannel2/vchannel2/chunklist_w197749656.m3u8?_fwobw=1249670&_fwtbw=1249670",
+                "quality":"FHD",
+                "videoType":"HLS"
+                }],
+                "duration":9999
+            },
+            "genres":[
+                "news",
+               
+                "special"
+            ],
+            "thumbnail":"https://blog.roku.com/developer/files/2016/10/con-tv-poster-artwork.png",
+            "releaseDate":"2018-01-01",
+            "shortDescription":"Saigon TV",
+            "longDescription":"Credits and All Rights go to Saigon TV", 
+            "tags":[
+                "news",
+                "special"
+            ] 
+
+        }
 
         {
             "id":"103",
