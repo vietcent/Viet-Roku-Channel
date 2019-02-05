@@ -166,7 +166,7 @@
                 "dateAdded":"2019-01-01",
                 "videos":[
                     {
-                "url":"http://secure-playlist.livestream.com/streams/21388423_7992704_lsingt6rbkbf2j5wf1m_1/media/21388423_7992704_lsingt6rbkbf2j5wf1m_1@198000pb.m3u8?dw=32&token=1549325197_7f929379b7ceb95ce220614d089136e6027f1a18&ts=1549152000",
+                "url":"https://livestream.com/accounts/21388423/events/7992704/player?width=1200&height=1080&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false",
                 "quality":"FHD",
                 "videoType":"HLS"
                 }],
